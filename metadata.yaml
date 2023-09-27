@@ -1,0 +1,31 @@
+_repo: Kansan-hyvaksi_71657
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Krohn, Helmi
+    aliases:
+    - Setälä, Helmi
+    - Setala, Helmi
+    - Helmi Setälä
+    birthdate: 1871
+    deathdate: 1967
+    gutenberg_agent_id: '31724'
+    url: http://www.gutenberg.org/2009/agents/31724
+    wikipedia: https://fi.wikipedia.org/wiki/Helmi_Krohn
+description: ''
+gutenberg_issued: '2023-09-15'
+identifiers:
+  gutenberg: '71657'
+language: fi
+pgterms:marc905: 20210104003740setl
+pgterms:marc906: '1905'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bOtava, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Kansan hyväksi
+url: http://www.gutenberg.org/ebooks/71657
